@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/pradip-18" target="_blank">Pradip Debnath</a></h1>
+<h3 align="center">💻 Computer Science Engineer | ⚙️ Backend Developer | ☁️ Cloud Enthusiast</h3>
 
-<!--
-**pradip-18/pradip-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+🔹 Passionate about **building scalable backend systems**, **automation**, and **AI-powered diagnostics**.  
+🔹 Currently exploring **Machine Learning for Root Cause Analysis** & **Oracle Cloud Infrastructure (OCI)**.  
+🔹 I love turning ideas into code and debugging until it works.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Arsenal  
+
+#### 🧩 Languages & Frameworks
+```text
+JavaScript • Node.js • Python • Express.js • SQL • HTML • CSS
